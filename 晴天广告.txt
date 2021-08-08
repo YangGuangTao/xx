@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": [
+    {
+      "id": 3,
+      "versionCode": "0",
+      "content": "欢迎使用,本软件维护由8888群提供，欢迎入群，谢谢。 The service will be suspended at 3p.m. to 4p.m. on 7th of Aug. for maintenance.",
+      "enabled": 1,
+      "createId": 1,
+      "createTime": "2021-08-06 22:33:10",
+      "updateTime": "2021-08-06 22:33:10"
+    }
+  ]
+}
